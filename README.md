@@ -13,4 +13,4 @@ This project is licensed under Apache 2.0 with Commons Clause and a Derivative W
 
 # Repositories included in this laboratory 
 
-
+Bulk Delete Toolbar (ChatGPT Sidebar) [https://github.com/explainnap/Vibe-Lab-Bulk-Chat-Delete-Toolbar]
