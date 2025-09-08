@@ -1,0 +1,49 @@
+Copyright (c) 2025 explainnap
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License
+and the Commons Clause and Derivative Works Clause below. 
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+---
+
+Commons Clause Restriction
+The Software is provided under the Apache 2.0 License, as detailed above,
+with the following restriction:
+
+You are not granted rights to Sell the Software. "Sell" means practicing
+any or all of the rights granted to you under the License to provide to
+third parties, for a fee or other commercial consideration, a product or
+service whose value derives, entirely or substantially, from the
+functionality of the Software. Any use of the Software for commercial
+purposes requires a separate commercial license from the copyright holder.
+
+---
+
+Derivative Works Clause
+If you modify this software and distribute the modified version, you must
+make the source code of your modifications available under the same license
+terms as this project (Apache 2.0 with Commons Clause and this Derivative
+Works Clause). 
+
+This ensures that all improvements and derivative works remain available to
+the community under identical non-commercial terms.
+
+❓ License FAQ
+
+Q1: Can I use this project at my company?
+Yes, but only for non-commercial purposes (e.g., internal learning, prototyping, research). Any commercial use (selling, offering as a paid service, or using in a commercial product) requires a separate license from the copyright holder.
+
+Q2: Can I fork and modify the code?
+Yes. You can modify and fork the project for non-commercial use. But if you distribute your modified version, you must also share the source code under the same license (Apache 2.0 + Commons Clause + Derivative Works Clause). for the benefit of the community.
+
+Q3: What does “use at your own risk” mean?
+The software is provided “as is” without warranties. The copyright holder is not liable for any damages or issues that may arise from using this project.
