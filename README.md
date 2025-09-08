@@ -11,4 +11,6 @@ All rights reserved except as expressly granted in this license.
 This project is licensed under Apache 2.0 with Commons Clause and a Derivative Works Clause – free for non-commercial use, with the requirement that any distributed modifications must also be shared under the same license. See LICENSE.txt
 
 
-# List of Repositories part of this laboratory 
+# Repositories included in this laboratory 
+
+
